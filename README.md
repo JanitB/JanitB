@@ -10,8 +10,8 @@
 - :briefcase: I’m currently looking for an internship in Data/Business Analytics for Summer 2022.
 - :desktop_computer: An achievement I am proud of this year is how far I have come in my Python and Machine Learning skills. 
 - :keyboard: I am a certified Salesforce Administrator since January 2021.
-- 💬 Ask me about my love for cooking!
 - :chart: Finance Fanatic!
+- 💬 Ask me about my love for cooking!
 - 😄 Pronouns: he/him
 
 [<img  src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
