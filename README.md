@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Janit Bilve :grin:
 
-- <p>
+<p>
   
 |Graduation Year  |              Course                 | College/School                     |  Place of Education           |
 |-----------------|-------------------------------------|------------------------------------|-------------------------------|       
-| 2020            | Bachelor's in Finance.              | San Francisco State University     |    San Francisco, CA          |
-| 2022            | Masters in Business Analytics       | Hult International Business School |    Cambridge, MA              |
+| 2020            | Bachelor's in Finance               | San Francisco State University     |    San Francisco, CA          |
+| 2022            | Master's in Business Analytics      | Hult International Business School |    Cambridge, MA              |
 
-- :briefcase: I’m currently looking for an internship in Data/Business Analytics.
+- :briefcase: I’m currently looking for an internship in Data/Business Analytics for Summer 2022.
 - :desktop_computer: An achievement I am proud of this year is how far I have come in my Python and Machine Learning skills. 
 - :keyboard: I am a certified Salesforce Administrator since January 2021.
 - 💬 Ask me about my love for cooking!
