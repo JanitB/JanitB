@@ -11,7 +11,12 @@
 - :desktop_computer: An achievement I am proud of this year is how far I have come in my Python and Machine Learning skills. 
 - :keyboard: I am a certified Salesforce Administrator since January 2021.
 - 💬 Ask me about my love for cooking!
-- 📫 Reach me at: linkedin.com/in/janitbilve or by email at bilvejanit25@gmail.com 
+- :chart: Finance Fanatic!
 - 😄 Pronouns: he/him
 
-
+[<img  src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
+  &nbsp;
+[<img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" height="48"   style="background-color:white;">][email]
+  
+[linkedin]:   https://www.linkedin.com/in/janitbilve/
+[email]:   mailto:bilvejanit25@gmail.com
