@@ -6,8 +6,10 @@
 |-----------------|-------------------------------------|------------------------------------|-------------------------------|       
 | 2020            | Bachelor's in Finance               | San Francisco State University     |    San Francisco, CA          |
 | 2022            | Master's in Business Analytics      | Hult International Business School |    Cambridge, MA              |
+| 2023            | Master's in Finance                 | Hult International Business School |    Cambridge, MA              |
 
-- :briefcase: I’m currently looking for an internship in Data/Business Analytics for Summer 2022.
+
+- :briefcase: I’m currently looking for an opportunities in Business/Financial Analyst roles.
 - :desktop_computer: An achievement I am proud of this year is how far I have come in my Python and Machine Learning skills. 
 - :keyboard: I am a certified Salesforce Administrator since January 2021.
 - :chart: Finance Fanatic!
